@@ -6,7 +6,7 @@
 
 ### XCButton 按钮组
 
-![Product By Chris!](/image/Demo/button.png 'XCButton')
+![Product By Chris!](/Demo/button.png 'XCButton')
 
 ### DatePicker 日期筛选
 
