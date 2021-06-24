@@ -1,0 +1,7 @@
+{
+  "symbol_url": "http://at.alicdn.com/t/font_2393553_94y82idbed4.js",
+  "use_typescript": false,
+  "save_dir": "./src/component/assets/iconfont",
+  "trim_icon_prefix": "icon",
+  "default_icon_size": 18
+}
